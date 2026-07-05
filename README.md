@@ -1,27 +1,17 @@
 # DFIR Portfolio
 
-A hands-on DFIR and cybersecurity portfolio documenting investigative labs, endpoint forensics, threat hunting, detection engineering and enterprise security learning.
+This repository documents my move from seven years in law enforcement digital forensics into enterprise incident response through practical lab work, structured investigations, and technical write-ups.
 
-## Current Areas of Focus
+## Current Projects
+- Enterprise DFIR Home Lab (Velociraptor)
+ - Suspicious Powershell Execution
+ - User Account Privilage Escalation
+- Splunk Boss of the SOC (BOTS) investigations (documentation in progress)
 
-- Velociraptor DFIR Labs
-- Windows Endpoint Forensics
-- Threat Hunting
-- Detection Engineering
-- Enterprise & Cloud Security Concepts
+Upcoming investigations will include further Windows endpoint and memory analysis along with threat hunting exercises.
 
-## Planned Repository Structure
+## Investigation Methodology
 
-```text
-dfir-portfolio/
-│
-├── velociraptor-labs/
-├── windows-endpoint-forensics/
-├── threat-hunting/
-├── detection-engineering/
-└── tools-and-scripts/
-```
+Each investigation follows a consistent evidence-led approach:
 
-## Goal
-
-To bridge investigative digital forensics experience into commercial DFIR and cybersecurity through practical labs, tooling exposure and technical writeups.
+Situation > Evidence Collected > Analysis > Findings > Lessons Learned
