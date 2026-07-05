@@ -128,7 +128,7 @@ sudo systemctl status velociraptor_server.service
 sudo reboot
 ```
 
-- Pulled client confif file for endpoint deployement.
+- Pulled client config file for endpoint deployement.
 
 # Windows Endpoint
 
